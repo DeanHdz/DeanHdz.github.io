@@ -1,2 +1,1 @@
-# DeanHdz.github.io
-Personal portfolio website.
+Personal portfolio website using React and tailwindcss
